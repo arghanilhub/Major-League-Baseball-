@@ -36,4 +36,12 @@ Analyzed the dataset across four key sections to uncover insights:<br>
 
 <h3>DATA STRUCTURE</h3> 
 <hr> 
+The dataset consists of four tables that capture various aspects of MLB players' historical data: <br>  
 
+* **Players:** Contains unique player records, including attributes such as date of birth (DOB), debut and final game dates, and other quantifiable metrics like height, weight, and batting hand. <br> 
+
+* **Salaries:** Records of player salaries paid by their respective teams for each year. <br> 
+
+* **School Details:** Lists each school’s name along with its location. <br> 
+
+* **Schools:** Tracks which schools players attended in a given year. <br> 
