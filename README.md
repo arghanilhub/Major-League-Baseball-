@@ -44,4 +44,11 @@ The dataset consists of four tables that capture various aspects of MLB players'
 
 * **School Details:** Lists each school’s name along with its location. <br> 
 
-* **Schools:** Tracks which schools players attended in a given year. <br> 
+* **Schools:** Tracks which schools players attended in a given year. <br>
+
+Each table contains a different number of records. For instance, the Players table includes around 18,000 unique player records, while the Salaries table may vary in size depending on the number of salary records available. <br> 
+
+*Data Source : http://seanlahman.com* <br> 
+<br> 
+
+![ERD](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/ERD_MLB.png) 
