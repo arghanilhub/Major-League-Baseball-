@@ -32,5 +32,8 @@ Analyzed the dataset across four key sections to uncover insights:<br>
 * **Schools Attended:** Which schools have produced the most MLB players?	<br>
   
 * **Salary Comparisons:** How much do teams invest in player salaries? <br>
+<br> 
 
+<h3>DATA STRUCTURE</h3> 
+<hr> 
 
