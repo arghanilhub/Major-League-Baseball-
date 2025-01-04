@@ -8,13 +8,14 @@ Analyzed player statistics over time and across different league ( SQL &amp; Exc
 <li><a href="#DATA-STRUCTURE">Data Structure</a></li> <br> 
 <li><a href="#EXECUTIVE-SUMMARY">Executive Summary</a></li> <br>  
 <li><a href="#INSIGHTS-&-FINDINGS-FOR-EACH-SECTION">Insights and Findings for each Section</a></li> <br> 
-</ol> 
 <ul> 
 <li><a href="#PLAYER-CAREER-ANALYSIS">Career stats</a></li> <br>
 <li><a href="#PLAYER-COMPARISON-ANALYSIS">Player comparisons</a></li> <br>
 <li><a href="#PLAYER-SCHOOL-ANALYSIS">Schools attended</a></li> <br>
 <li><a href="#PLAYER-SALARY-ANALYSIS">Salary comparisons</a></li> <br> 
-</ul>
+</ul> 
+<li><a href="#RECOMMENDATION">Recommendation</a></li> 
+</ol> 
 <br>
 <h3 id="SITUATION">SITUATION</h3>
 <hr> 
@@ -168,7 +169,7 @@ I’ve chosen to focus on the most recent four decades to keep the insights rele
 * **Teams Crossing the $1 Billion Mark:** Out of the 37 teams, **30 teams** have crossed the **$1 billion** spending mark. The **New York Yankees (2003)** and **Boston Red Sox (2004)** were the earliest to reach this milestone, outpacing all other teams in terms of early, high-level investment in players. <br> 
 <br>
 
-<h3>RECOMMENDATION</h3> 
+<h3 id="RECOMMENDATION">RECOMMENDATION</h3> 
 <hr> 
 
 **CAREER :** <br>  
