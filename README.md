@@ -100,4 +100,19 @@ And those rare, long-tenured players who stayed loyal to the same team from star
 **Q2) Are shared birthdays common among MLB players? If so, when did we start seeing more of these matches?** <br> 
 :white_medium_square: Shared birthdays do occur among MLB players, but they’re more common in later years. While player birthdates in the dataset span from 1820 to 1994, most of the matches happen between 1984 and 1994. This suggests that the surge in new players during that period increased the chances of finding players with the same birthday. <br>   
       
-**Q3)      
+**Q3) How have players' height and weight changed at their debut games over the decades? Do we notice any notable trends?** <br>       
+:white_check_mark: When we look at player data spanning from the 1870s to the 2010s, a clear trend emerges in weight, but height remains surprisingly constant. <br> 
+Here’s what we found: <br> 
+* **Weight:** Players' average weight steadily increased over time, with a sharp spike between 1980 and 2000, peaking in the early 2000s. However, this trend reversed after 2000, with a noticeable dip in 2010. <br>
+
+* **Height:** Unlike weight, height has remained constant across all decades with no major spikes or drops. <br>
+
+**Year-by-year analysis:** <br> 
+
+* We noticed a lot of fluctuations in weight when analyzing yearly data. To get a clearer picture, we calculated a 10-year moving average, which confirmed the same pattern: <br> 
+  * Exponential rise in weight from 1871 to the mid-2000s. <br> 
+  * Dip in weight after 2010. <br>
+
+In summary, while height has stayed consistent over the years, players have gotten heavier over time, especially between the 1980s and 2000s. However, recent data shows a slight shift toward lighter players again. <br>  
+
+![comparison_decade](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/comparison_decade.png) &nbsp; ![comparison_years_new](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/comparison_years_new.png) 
