@@ -8,8 +8,8 @@ Analyzed player statistics over time and across different league ( SQL &amp; Exc
 <li><a href="#DATA-STRUCTURE">Data Structure</a></li> <br> 
 <li><a href="#EXECUTIVE-SUMMARY">Executive Summary</a></li> <br>  
 <li><a href="#INSIGHTS-&-FINDINGS-FOR-EACH-SECTION">Insights and Findings for each Section</a></li> <br> 
-</ol>  
-<ul>
+</ol> 
+<ul> 
 <li><a href="#PLAYER-CAREER-ANALYSIS">Career stats</a></li> <br>
 <li><a href="#PLAYER-COMPARISON-ANALYSIS">Player comparisons</a></li> <br>
 <li><a href="#PLAYER-SCHOOL-ANALYSIS">Schools attended</a></li> <br>
