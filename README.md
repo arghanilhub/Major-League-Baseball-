@@ -118,8 +118,32 @@ Here’s what we found: <br>
 In summary, while height has stayed consistent over the years, players have gotten heavier over time, especially between the 1980s and 2000s. However, recent data shows a slight shift toward lighter players again. <br>  
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![comparison_years_new](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/comparison_years_new.png) <br> 
-
+<br> 
 
 <h4>:three: PLAYER SCHOOL ANALYSIS </h4> 
 <br> 
+
+**Q1) How has the number of schools attended by MLB players changed over the decades? Are there any noticeable trends in the growth or decline of schools?** <br> 
+:white_check_mark: Between the 1860s and the 2010s, the number of schools attended by MLB players saw significant changes. For most of this period, the number of schools steadily increased, reflecting the growing popularity of the sport and the broader pool of talent coming from various educational institutions. <br> 
+
+Interestingly, the period from 1860 to 1990 showed the **highest number of schools attended by players**. However, after 1990, there was a **sharp decline in the number of schools** between 2000 and 2010. This drop might suggest a shift in recruitment patterns or fewer schools being credited for producing MLB players during that time. <br> 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![school_years](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/schools_years.png) <br> 
+<br> 
+
+**Q2) Which schools have generated the most MLB players, both overall and in recent decades?** <br> 
+:white_check_mark: When we look at the data as a whole, **Texas, USC, Arizona, Stanford, and Michigan** stand out as the top five schools that have produced the most MLB players. <br> 
+
+To dig deeper, I analyzed the last four decades (from 1980 to 2010) to identify which schools led in player production for each decade. The results show an interesting shift over time: <br> 
+  * **1980s:** Arizona topped the list with the most players. <br> 
+  * **1990s:** Stanford became the leading school. <br> 
+  * **2000s:** Arizona State took the top spot. <br> 
+  * **2010s:** Florida produced the highest number of players. <br> 
+
+This shift highlights how different schools have dominated player development across various decades, reflecting changes in recruitment trends and player pipelines over time. <br> 
+
+I’ve chosen to focus on the most recent four decades to keep the insights relevant and avoid clutter in the visualization. <br> 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![school_decade](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/schools_decade.png) <br> 
+
 
