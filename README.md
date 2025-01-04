@@ -2,7 +2,7 @@
 Analyzed player statistics over time and across different league ( SQL &amp; Excel )   
 </br>  
 <h3>Contents</h3> 
-<a href="#SITUATION">1. Situation</a> <br> 
+1.<a href="#SITUATION">Situation</a> <br> 
 2. Objectives <br>  
 3. Data Structure <br> 
 4. Executive Summary <br>  
