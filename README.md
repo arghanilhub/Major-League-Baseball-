@@ -164,3 +164,27 @@ I’ve chosen to focus on the most recent four decades to keep the insights rele
 * **Highest Total Spending:** Over the years, **New York Yankees (NYA)** has spent more on player salaries than any other team, with a staggering total of **$3 billion** over a 30-year period (1985 to 2014). <br> 
 
 * **Teams Crossing the $1 Billion Mark:** Out of the 37 teams, **30 teams** have crossed the **$1 billion** spending mark. The **New York Yankees (2003)** and **Boston Red Sox (2004)** were the earliest to reach this milestone, outpacing all other teams in terms of early, high-level investment in players. <br> 
+<br>
+
+<h3>RECOMMENDATION</h3> 
+<hr> 
+
+**CAREER :** <br>  
+  * Focus on identifying and retaining **experienced players with long careers** to improve team performance and mentorship for younger players.
+    Teams should consider **extending contracts for high-performing veterans** to leverage their experience. <br>
+
+**PLAYER COMPARISON :** <br>  
+  * Since player weights have increased significantly over the decades, 
+    MLB could consider **implementing standardized nutrition and fitness guidelines** to maintain player agility and reduce potential injury risks.
+    Although there's a positive trend of weight stabilization in recent years, maintaining an optimal balance between strength and agility should 
+    remain a priority for long-term player performance. <br>
+
+**SCHOOL :** <br> 
+  * Explore opportunities to **partner with schools that have produced the most players** historically. 
+    Schools like **Texas and Arizona** have consistently been talent pipelines.
+    Building relationships with these schools could create a long-term recruitment advantage. <br>
+
+**SALARY :** <br> 
+  * Teams should carefully manage their player salary investments.
+    High spending doesn't guarantee success, **focusing on smarter investments (like allocating funds to long-term contracts with proven players)**
+    can maximize returns and reduce unnecessary spending spikes.          
