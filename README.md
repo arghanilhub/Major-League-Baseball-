@@ -2,7 +2,7 @@
 Analyzed player statistics over time and across different league ( SQL &amp; Excel )   
 </br>  
 <h3>Contents</h3> 
-1. Situation <br> 
+<a href="#SITUATION">1. Situation</a> <br> 
 2. Objectives <br>  
 3. Data Structure <br> 
 4. Executive Summary <br>  
@@ -14,7 +14,7 @@ Analyzed player statistics over time and across different league ( SQL &amp; Exc
  * Salary comparisons <br> 
 
 <br>
-<h3>SITUATION</h3>
+<h3 id="SITUATION">SITUATION</h3>
 <hr> 
 
 As a Data Analyst Intern at **Major League Baseball (MLB)**, I’ve been granted access to decades of player records—spanning details 
