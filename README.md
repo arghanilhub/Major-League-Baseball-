@@ -8,10 +8,10 @@ Analyzed player statistics over time and across different league ( SQL &amp; Exc
 4. Executive Summary <br>  
 5. Insights and Findings for each Section <br> 
 
- * Schools attended <br>
- * Salary comparisons <br>
  * Career stats <br>
- * Player comparisons <br> 
+ * Player comparisons <br>
+ * Schools attended <br>
+ * Salary comparisons <br> 
 
 <br>
 <h3>SITUATION</h3>
@@ -76,10 +76,10 @@ Salary trends show that team spending has steadily risen over the decades, with 
 
 **Q1) What is the career length of each player, and how old were they at their first and last games? Which player had the longest career?** <br> 
 
-:white_medium_square: Nicholas stands out with a career lasting **35 years**, making him the longest-serving player. Most players started their careers at 22 or 23 years old. Interestingly, a small group of four players continued playing well into their 50s, retiring at 55 or 57 — an impressive  stretch compared to the rest, who typically retired in their 40s. <br>   
+:white_check_mark: Nicholas stands out with a career lasting **35 years**, making him the longest-serving player. Most players started their careers at 22 or 23 years old. Interestingly, a small group of four players continued playing well into their 50s, retiring at 55 or 57 — an impressive  stretch compared to the rest, who typically retired in their 40s. <br>   
             
 **Q2) Which team did each player start and end their career with? How many players stayed with the same team from their debut to their final game, playing for over a decade?** <br>        
-:white_medium_square: Out of the 18,000 player records we analyzed, we were able to track the debut and final teams for **912 players**. Interestingly, **322 of these players** started and ended their careers with the **same team** — though, of course, it's possible they played for other teams in between. <br> 
+:white_check_mark: Out of the 18,000 player records we analyzed, we were able to track the debut and final teams for **912 players**. Interestingly, **322 of these players** started and ended their careers with the **same team** — though, of course, it's possible they played for other teams in between. <br> 
 
 Now, here's the fascinating part: out of those, **19 players** had careers that spanned **over a decade** while still starting and finishing with the same team. Again, they might have had stints with other teams during their careers, but they made their debut and played their final game with the same franchise. <br> 
 
@@ -95,12 +95,15 @@ And those rare, long-tenured players who stayed loyal to the same team from star
 <br> 
 
 **Q1) Which teams have the highest proportions of right-handed, left-handed, and switch-hitters, and which team has the largest overall player pool?** <br> 
-:white_medium_square: Interestingly, LAA stands out with the highest proportion of right-handed batters, while CHN leads in left-handed batters, and SFG has the most switch-hitters. Additionally, SDN has the largest overall number of players compared to the rest of the teams. <br> 
+
+:white_check_mark: Interestingly, LAA stands out with the highest proportion of right-handed batters, while CHN leads in left-handed batters, and SFG has the most switch-hitters. Additionally, SDN has the largest overall number of players compared to the rest of the teams. <br> 
    
 **Q2) Are shared birthdays common among MLB players? If so, when did we start seeing more of these matches?** <br> 
-:white_medium_square: Shared birthdays do occur among MLB players, but they’re more common in later years. While player birthdates in the dataset span from 1820 to 1994, most of the matches happen between 1984 and 1994. This suggests that the surge in new players during that period increased the chances of finding players with the same birthday. <br>   
+
+:white_check_mark: Shared birthdays do occur among MLB players, but they’re more common in later years. While player birthdates in the dataset span from 1820 to 1994, most of the matches happen between 1984 and 1994. This suggests that the surge in new players during that period increased the chances of finding players with the same birthday. <br>   
       
-**Q3) How have players' height and weight changed at their debut games over the decades? Do we notice any notable trends?** <br>       
+**Q3) How have players' height and weight changed at their debut games over the decades? Do we notice any notable trends?** <br>  
+
 :white_check_mark: When we look at player data spanning from the 1870s to the 2010s, a clear trend emerges in weight, but height remains surprisingly constant. <br> 
 Here’s what we found: <br> 
 * **Weight:** Players' average weight steadily increased over time, with a **sharp spike between 1980 and 2000**, peaking in the early 2000s. However, this trend reversed after 2000, with a noticeable dip in 2010. <br>
@@ -124,6 +127,7 @@ In summary, while height has stayed consistent over the years, players have gott
 <br> 
 
 **Q1) How has the number of schools attended by MLB players changed over the decades? Are there any noticeable trends in the growth or decline of schools?** <br> 
+
 :white_check_mark: Between the 1860s and the 2010s, the number of schools attended by MLB players saw significant changes. For most of this period, the number of schools steadily increased, reflecting the growing popularity of the sport and the broader pool of talent coming from various educational institutions. <br> 
 
 Interestingly, the period from 1860 to 1990 showed the **highest number of schools attended by players**. However, after 1990, there was a **sharp decline in the number of schools** between 2000 and 2010. This drop might suggest a shift in recruitment patterns or fewer schools being credited for producing MLB players during that time. <br> 
@@ -132,6 +136,7 @@ Interestingly, the period from 1860 to 1990 showed the **highest number of schoo
 <br> 
 
 **Q2) Which schools have generated the most MLB players, both overall and in recent decades?** <br> 
+
 :white_check_mark: When we look at the data as a whole, **Texas, USC, Arizona, Stanford, and Michigan** stand out as the top five schools that have produced the most MLB players. <br> 
 
 To dig deeper, I analyzed the last four decades (from 1980 to 2010) to identify which schools led in player production for each decade. The results show an interesting shift over time: <br> 
@@ -145,5 +150,17 @@ This shift highlights how different schools have dominated player development ac
 I’ve chosen to focus on the most recent four decades to keep the insights relevant and avoid clutter in the visualization. <br> 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![school_decade](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/schools_decade.png) <br> 
+<br>
 
+<h4>:four: PLAYER SALARY ANALYSIS </h4> 
+<br> 
 
+**Q1) How much do MLB teams spend on player salaries, and which teams stand out the most?** <br> 
+
+:white_check_mark: When analyzing how much teams have invested in player salaries, a few key trends stand out: <br> 
+
+* **Top Spenders:** Out of the 37 teams in the dataset, the **top 20% (8 teams)** have the highest average annual spending. **San Francisco Giants (SFG)** leads this list, spending an average of $5.3 million per year per player, followed by the rest of the top 8 teams, with **Arizona (ARI)** rounding out the list at $2.5 million. <br> 
+
+* **Highest Total Spending:** Over the years, **New York Yankees (NYA)** has spent more on player salaries than any other team, with a staggering total of **$3 billion** over a 30-year period (1985 to 2014). <br> 
+
+* **Teams Crossing the $1 Billion Mark:** Out of the 37 teams, **30 teams** have crossed the **$1 billion** spending mark. The **New York Yankees (2003)** and **Boston Red Sox (2004)** were the earliest to reach this milestone, outpacing all other teams in terms of early, high-level investment in players. <br> 
