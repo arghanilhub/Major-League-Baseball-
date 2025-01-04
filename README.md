@@ -85,5 +85,5 @@ Looking at team trends, **CHA (Chicago White Sox)** and **OAK (Oakland Athletics
 And those rare, long-tenured players who stayed loyal to the same team from start to finish over a decade? They mostly belonged to **NYA (New York Yankees)** and **ATL (Atlanta Braves)** — two franchises known for their strong player retention. <br> 
 
                 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![career](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/career.png)              
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![career](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/career.png)              
            
