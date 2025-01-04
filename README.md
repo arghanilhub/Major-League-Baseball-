@@ -63,6 +63,9 @@ The data reveals several long-term trends across MLB player careers, attributes,
 Over the years, player weight has steadily increased, especially from the 1980s to 2000s, while height has remained constant. The number of schools producing MLB players grew significantly until 1990 but declined in recent decades, with talent coming from fewer institutions. <br>  
             
 Salary trends show that team spending has steadily risen over the decades, with several teams surpassing $1 billion in annual spending, indicating a long-term investment in player retention and talent acquisition. <br> 
+
+* **For those interested in a deeper dive into how each question was executed,
+  the complete SQL code for each section is available in this file :** [SQL file](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/assignment_%20MLB.sql) <br> 
 <br>                       
 
 <h3>INSIGHTS & FINDINGS FOR EACH SECTION</h3> 
