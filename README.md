@@ -83,6 +83,7 @@ Now, here's the fascinating part: out of those, **19 players** had careers that 
 Looking at team trends, **CHA (Chicago White Sox)** and **OAK (Oakland Athletics)** were the most common starting points for players' careers, while **DET (Detroit Tigers)** and **PHI (Philadelphia Phillies)** were where many players played their last games. <br> 
 
 And those rare, long-tenured players who stayed loyal to the same team from start to finish over a decade? They mostly belonged to **NYA (New York Yankees)** and **ATL (Atlanta Braves)** — two franchises known for their strong player retention. <br> 
-  <br>                
-&nbsp; &nbsp; &nbsp; &nbsp; ![career](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/career.png)              
+
+                
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![career](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/career.png)              
            
