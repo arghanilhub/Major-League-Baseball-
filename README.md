@@ -97,3 +97,7 @@ And those rare, long-tenured players who stayed loyal to the same team from star
 **Q1) Which teams have the highest proportions of right-handed, left-handed, and switch-hitters, and which team has the largest overall player pool?** <br> 
 :white_medium_square: Interestingly, LAA stands out with the highest proportion of right-handed batters, while CHN leads in left-handed batters, and SFG has the most switch-hitters. Additionally, SDN has the largest overall number of players compared to the rest of the teams. <br> 
    
+**Q2) Are shared birthdays common among MLB players? If so, when did we start seeing more of these matches?** <br> 
+:white_medium_square: Shared birthdays do occur among MLB players, but they’re more common in later years. While player birthdates in the dataset span from 1820 to 1994, most of the matches happen between 1984 and 1994. This suggests that the surge in new players during that period increased the chances of finding players with the same birthday. <br>   
+      
+**Q3)      
