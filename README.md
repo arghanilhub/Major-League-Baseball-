@@ -75,5 +75,14 @@ Salary trends show that team spending has steadily risen over the decades, with 
 
 :white_medium_square: Nicholas stands out with a career lasting **35 years**, making him the longest-serving player. Most players started their careers at 22 or 23 years old. Interestingly, a small group of four players continued playing well into their 50s, retiring at 55 or 57 — an impressive  stretch compared to the rest, who typically retired in their 40s. <br>   
             
-**Q2) Which team did each player start and end their career with? How many players stayed with the same team from their debut to their final game, playing for over a decade?**       
-    
+**Q2) Which team did each player start and end their career with? How many players stayed with the same team from their debut to their final game, playing for over a decade?** <br>        
+:white_medium_square: Out of the 18,000 player records we analyzed, we were able to track the debut and final teams for **912 players**. Interestingly, **322 of these players** started and ended their careers with the **same team** — though, of course, it's possible they played for other teams in between. <br> 
+
+Now, here's the fascinating part: out of those, **19 players** had careers that spanned **over a decade** while still starting and finishing with the same team. Again, they might have had stints with other teams during their careers, but they made their debut and played their final game with the same franchise. <br> 
+
+Looking at team trends, **CHA (Chicago White Sox)** and **OAK (Oakland Athletics)** were the most common starting points for players' careers, while **DET (Detroit Tigers)** and **PHI (Philadelphia Phillies)** were where many players played their last games. <br> 
+
+And those rare, long-tenured players who stayed loyal to the same team from start to finish over a decade? They mostly belonged to **NYA (New York Yankees)** and **ATL (Atlanta Braves)** — two franchises known for their strong player retention. <br> 
+  <br>                
+&nbsp; &nbsp; &nbsp; &nbsp; ![career](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/career.png)              
+           
