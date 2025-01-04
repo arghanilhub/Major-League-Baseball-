@@ -88,5 +88,12 @@ Looking at team trends, **CHA (Chicago White Sox)** and **OAK (Oakland Athletics
 And those rare, long-tenured players who stayed loyal to the same team from start to finish over a decade? They mostly belonged to **NYA (New York Yankees)** and **ATL (Atlanta Braves)** — two franchises known for their strong player retention. <br> 
 
                 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![career](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/career.png)              
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![career](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/career.png) <br>             
+<br> 
            
+<h4>:two: PLAYER COMPARISON ANALYSIS </h4> 
+<br> 
+
+**Q1) Which teams have the highest proportions of right-handed, left-handed, and switch-hitters, and which team has the largest overall player pool?** <br> 
+:white_medium_square: Interestingly, LAA stands out with the highest proportion of right-handed batters, while CHN leads in left-handed batters, and SFG has the most switch-hitters. Additionally, SDN has the largest overall number of players compared to the rest of the teams. <br> 
+   
