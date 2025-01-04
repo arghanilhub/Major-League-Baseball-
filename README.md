@@ -2,17 +2,19 @@
 Analyzed player statistics over time and across different league ( SQL &amp; Excel )   
 </br>  
 <h3>Contents</h3> 
-1.<a href="#SITUATION">Situation</a> <br> 
-2. Objectives <br>  
-3. Data Structure <br> 
-4. Executive Summary <br>  
-5. Insights and Findings for each Section <br> 
-
- * Career stats <br>
- * Player comparisons <br>
- * Schools attended <br>
- * Salary comparisons <br> 
-
+<ol>
+<li><a href="#SITUATION">Situation</a></li> <br> 
+<li><a href="#OBJECTIVES">Objectives</a></li> <br>  
+<li><a href="#DATA-STRUCTURE">Data Structure</a></li> <br> 
+<li><a href="#EXECUTIVE-SUMMARY">Executive Summary</a></li> <br>  
+<li><a href="#INSIGHTS-&-FINDINGS-FOR-EACH-SECTION">Insights and Findings for each Section</a></li> <br> 
+</ol>  
+<ul>
+<li><a href="#PLAYER-CAREER-ANALYSIS">Career stats</a></li> <br>
+<li><a href="#PLAYER-COMPARISON-ANALYSIS">Player comparisons</a></li> <br>
+<li><a href="#PLAYER-SCHOOL-ANALYSIS">Schools attended</a></li> <br>
+<li><a href="#PLAYER-SALARY-ANALYSIS">Salary comparisons</a></li> <br> 
+</ul>
 <br>
 <h3 id="SITUATION">SITUATION</h3>
 <hr> 
@@ -21,7 +23,7 @@ As a Data Analyst Intern at **Major League Baseball (MLB)**, I’ve been granted
 from schools attended to salaries and performance metrics. My task? To uncover how player statistics have shifted over time and 
 reveal key patterns across different teams in the league. <br> 
 
-<h3>OBJECTIVES</h3> 
+<h3 id="OBJECTIVES">OBJECTIVES</h3> 
 <hr> 
 Analyzed the dataset across four key sections to uncover insights:<br> 
 
@@ -34,7 +36,7 @@ Analyzed the dataset across four key sections to uncover insights:<br>
 * **Salary Comparisons:** How much do teams invest in player salaries? <br>
 <br> 
 
-<h3>DATA STRUCTURE</h3> 
+<h3 id="DATA-STRUCTURE">DATA STRUCTURE</h3> 
 <hr> 
 The dataset consists of four tables that capture various aspects of MLB players' historical data: <br>  
 
@@ -55,7 +57,7 @@ Each table contains a different number of records. For instance, the Players tab
 <br>
 
 
-<h3>EXECUTIVE SUMMARY</h3> 
+<h3 id="EXECUTIVE-SUMMARY">EXECUTIVE SUMMARY</h3> 
 <hr> 
  
 The data reveals several long-term trends across MLB player careers, attributes, education, and salaries. Most players begin their careers in their early 20s and retire by their 40s, though a few rare cases have shown remarkable career longevity of over 30 years. Staying with the same team for both debut and final games over a decade is relatively uncommon but observed in a few teams. <br> 
@@ -68,10 +70,10 @@ Salary trends show that team spending has steadily risen over the decades, with 
   the complete SQL code for each section is available in this file :** [SQL file](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/assignment_%20MLB.sql) <br> 
 <br>                       
 
-<h3>INSIGHTS & FINDINGS FOR EACH SECTION</h3> 
+<h3 id="INSIGHTS-&-FINDINGS-FOR-EACH-SECTION">INSIGHTS & FINDINGS FOR EACH SECTION</h3> 
 <hr> 
 
-<h4>:one: PLAYER CAREER ANALYSIS </h4> 
+<h4 id="PLAYER-CAREER-ANALYSIS">:one: PLAYER CAREER ANALYSIS </h4> 
 <br> 
 
 **Q1) What is the career length of each player, and how old were they at their first and last games? Which player had the longest career?** <br> 
@@ -91,7 +93,7 @@ And those rare, long-tenured players who stayed loyal to the same team from star
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![career](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/career.png) <br>             
 <br> 
            
-<h4>:two: PLAYER COMPARISON ANALYSIS </h4> 
+<h4 id="PLAYER-COMPARISON-ANALYSIS">:two: PLAYER COMPARISON ANALYSIS </h4> 
 <br> 
 
 **Q1) Which teams have the highest proportions of right-handed, left-handed, and switch-hitters, and which team has the largest overall player pool?** <br> 
@@ -123,7 +125,7 @@ In summary, while height has stayed consistent over the years, players have gott
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![comparison_years_new](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/comparison_years_new.png) <br> 
 <br> 
 
-<h4>:three: PLAYER SCHOOL ANALYSIS </h4> 
+<h4 id="PLAYER-SCHOOL-ANALYSIS">:three: PLAYER SCHOOL ANALYSIS </h4> 
 <br> 
 
 **Q1) How has the number of schools attended by MLB players changed over the decades? Are there any noticeable trends in the growth or decline of schools?** <br> 
@@ -152,7 +154,7 @@ I’ve chosen to focus on the most recent four decades to keep the insights rele
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![school_decade](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/schools_decade.png) <br> 
 <br>
 
-<h4>:four: PLAYER SALARY ANALYSIS </h4> 
+<h4 id="PLAYER-SALARY-ANALYSIS">:four: PLAYER SALARY ANALYSIS </h4> 
 <br> 
 
 **Q1) How much do MLB teams spend on player salaries, and which teams stand out the most?** <br> 
