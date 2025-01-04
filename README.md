@@ -115,4 +115,4 @@ Here’s what we found: <br>
 
 In summary, while height has stayed consistent over the years, players have gotten heavier over time, especially between the 1980s and 2000s. However, recent data shows a slight shift toward lighter players again. <br>  
 
-![comparison_decade](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/comparison_decade.png) &nbsp; ![comparison_years_new](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/comparison_years_new.png) 
+![comparison_decade](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/comparison_decade.png) ![comparison_years_new](https://github.com/arghanilhub/Major-League-Baseball-/blob/main/comparison_years_new.png) 
